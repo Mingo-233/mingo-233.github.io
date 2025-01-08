@@ -1,4 +1,4 @@
-var o=Object.defineProperty;var n=(s,e,i)=>e in s?o(s,e,{enumerable:!0,configurable:!0,writable:!0,value:i}):s[e]=i;var t=(s,e,i)=>(n(s,typeof e!="symbol"?e+"":e,i),i);import{d as a,B as c,H as h,S as d,C as l,R as m,A as u,P as p,b as v,j as w,V as g,e as b}from"./index-f9af0687.js";import{t as f}from"./tweakpane-efa3ef17.js";import{d as x,h as _,l as z,c as P,o as C,a as y}from"./index-b3c877f3.js";import"./LoadingCreator-3ff16b20.js";import"./_plugin-vue_export-helper-c27b6911.js";const S=`varying vec2 vUv;
+var o=Object.defineProperty;var n=(s,e,i)=>e in s?o(s,e,{enumerable:!0,configurable:!0,writable:!0,value:i}):s[e]=i;var t=(s,e,i)=>(n(s,typeof e!="symbol"?e+"":e,i),i);import{d as a,B as c,H as h,S as d,C as l,R as m,A as u,P as p,b as v,j as w,V as g,e as b}from"./index-31c0b642.js";import{t as f}from"./tweakpane-9ec2a9db.js";import{d as x,h as _,l as z,c as P,o as C,a as y}from"./index-42613d43.js";import"./LoadingCreator-28297c1b.js";import"./vendor-c27b6911.js";const S=`varying vec2 vUv;
 
 void main() {
   // 计算颜色渐变
